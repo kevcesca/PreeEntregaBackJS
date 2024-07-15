@@ -1,0 +1,41 @@
+[
+  {
+    "title": "New Product Example",
+    "description": "This is a description of the new product.",
+    "code": "ABC123XYZ",
+    "price": 19.99,
+    "status": true,
+    "stock": 50,
+    "category": "Electronics",
+    "thumbnails": [
+      "http://example.com/image1.jpg"
+    ],
+    "id": 1
+  },
+  {
+    "title": "Producto 2",
+    "description": "Descripcion generica",
+    "code": "14lj14jl41",
+    "price": 22,
+    "status": true,
+    "stock": 23,
+    "category": "Electronica",
+    "thumbnails": [
+      "http://misitio.com/imagen.jpg"
+    ],
+    "id": 2
+  },
+  {
+    "title": "Producto 3",
+    "description": "Descripcion generica 3",
+    "code": "14llalala41",
+    "price": 32,
+    "status": true,
+    "stock": 33,
+    "category": "Electronica",
+    "thumbnails": [
+      "http://misitio.com/imagen.jpg"
+    ],
+    "id": 3
+  }
+]
